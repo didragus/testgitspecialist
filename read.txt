@@ -4,3 +4,5 @@ test -am
 
 dfdf
 dif test 
+
+amend
